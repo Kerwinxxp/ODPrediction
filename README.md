@@ -25,7 +25,6 @@
 | Models | Techniques | Required Features | Feature Type |
 | ---- | ---- | ---- | ---- |
 | gravity | Physical Model | Population, distance | Numerical | 
-| radiation model | Physical Model | Population | Numerical |
 | GBRT | Tree-based Model | Socioeconomics | Numerical<br>categorical |
 | Random Forest | Tree-based Model | Socioeconomics | Numerical |
 | GMEL | Deep Learning | Socioeconomics | Numerical |
