@@ -1,6 +1,5 @@
 # ODPrediction
 
-![Illustration of OD construction](assets/problem_pre.png)
 
 **Problem Definition.** Given the regional urban characteristics of the city ${\lbrace} X_r | r\in\mathcal{R} \rbrace$ and observed OD flows $\lbrace f_{ij}|\langle r_i, r_j\rangle\in\mathcal{X} \rbrace$ between part of OD pairs $\mathcal{X}$ , construct a model to predict the remaining unknown OD flows $\lbrace f_{ij}|\langle r_i,r_j\rangle\notin\mathcal{X}\rbrace$.
 
